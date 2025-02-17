@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Docker and Apache Kafka**
 
-- 💬 Ask me about **C#, Javascript and SQL.**
+- 💬 Ask me about **C#, Javascript, Typescript and SQL.**
 
 - 📫 How to reach me **tezolin.edison@gmail.com**
 
