@@ -4,19 +4,11 @@
 <h3 align="center">Architecting solutions in the code's backstage</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Coming soon](Coming soon)
-
 - 🌱 I’m currently learning **Docker and Apache Kafka**
-
-- 👯 I’m looking to collaborate on [Coming soon](Coming soon)
-
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
 - 💬 Ask me about **C#, Javascript and SQL.**
 
 - 📫 How to reach me **tezolin.edison@gmail.com**
-
-- 📄 Know about my experiences [Coming soon](Coming soon)
 
 - ⚡ Fun fact **Programmer who turns bugs into features**
 
